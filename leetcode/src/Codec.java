@@ -1,5 +1,3 @@
-package problem535;
-
 import java.util.HashMap;
 import java.util.Map;
 
